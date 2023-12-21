@@ -1,6 +1,13 @@
+body {
+    font-family: "Roboto", "Helvetica";
+    margin: 0;
+}
+
 .one {
     display: flex;
     background-color: #1F2937;
+    flex-direction: column;
+    align-items: center;
 }
 
 .main {
@@ -17,4 +24,13 @@
 h3 {
     size: 24px;
     color: #F9FAF8;
+    align-self: flex-start;
+}
+
+.header{
+    display: flex;
+    gap: 20px;
+}
+.hero {
+    display: flex;
 }
