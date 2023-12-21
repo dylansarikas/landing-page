@@ -2,3 +2,19 @@
     display: flex;
     background-color: #1F2937;
 }
+
+.main {
+    size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.secondary, h6 {
+    size: 18px;
+    color: #E5E7EB;
+}
+
+h3 {
+    size: 24px;
+    color: #F9FAF8;
+}
